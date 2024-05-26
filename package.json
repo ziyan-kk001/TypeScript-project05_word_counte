@@ -1,0 +1,15 @@
+{
+  "name": "project05_word_counter",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "My word counter",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rimsha",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  }
+}
